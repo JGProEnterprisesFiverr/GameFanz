@@ -6,4 +6,5 @@
 ### Symbol : GFN
 ### Total Supply : 80,000,000,000 ( 80 billion )
 ### Decimals : 8
-### Contract Address: 0xB97EC4e3B591C53906c45e84f824B0784Cbf6923
+### Contract Address: 0x3930E4dDb4d24ef2F4CB54C1f009a3694b708428
+### Tracker : https://etherscan.io/token/0x3930E4dDb4d24ef2F4CB54C1f009a3694b708428
